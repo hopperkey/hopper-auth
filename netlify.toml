@@ -1,2 +1,2 @@
-[build]
-  functions = "functions"
+[functions]
+  directory = "."  # Netlify tìm functions ở root
