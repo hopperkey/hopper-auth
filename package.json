@@ -1,0 +1,12 @@
+{
+  "name": "hopperkey-backend",
+  "version": "1.0.0",
+  "description": "KeyAuth backend for Supabase",
+  "main": "functions/auth.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4"
+  },
+  "engines": {
+    "node": "18"
+  }
+}
